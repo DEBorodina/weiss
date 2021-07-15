@@ -133,7 +133,7 @@
 
   .header__main {
       margin-top:197px;
-      min-width:40%;
+      width:40%;
   }
   
   .header__pre-title {
@@ -219,6 +219,7 @@
     }
     .header__main {
         margin-top: 64px;
+        min-width:40%;
     }
     .humburger {
         display: inline-block;
